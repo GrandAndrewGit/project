@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 13,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.maxColumn": 90,
+    "editor.minimap.size": "fill",
+    "editor.renderLineHighlight": "none",
+}
